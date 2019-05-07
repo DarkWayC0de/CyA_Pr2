@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pr2.dir/main.cpp.o CMakeFiles/Pr2.dir/greedy_t.cpp.o CMakeFiles/Pr2.dir/point_t.cpp.o CMakeFiles/Pr2.dir/sky_t.cpp.o  -o Pr2 
